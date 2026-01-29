@@ -1,0 +1,15 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+sqlalchemy>=2.0
+pydantic>=2.6
+pydantic-settings>=2.2
+python-jose[cryptography]>=3.3
+passlib[bcrypt]>=1.7
+cryptography>=42.0
+python-multipart>=0.0.9
+email-validator>=2.1
+
+google-auth>=2.29
+google-auth-oauthlib>=1.2
+google-api-python-client>=2.120
+psycopg2-binary==2.9.9
